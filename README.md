@@ -1,2 +1,2 @@
 # WildfireAI
-Solution for Wildfire AI contest
+Решение соревнования Wildfire AI - https://wildfire.sberbank.ai, 21-е место в финальном рейтинге 
